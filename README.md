@@ -4,7 +4,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Parth Adhikari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about ReactJS, Express, MongoDB, C++<br>📫 How to reach me parthadhikari@gmail.com<br>⚡ Fun fact I use took Physical Education instead of CS in my 12th class for optional and ended here, LOL!<br>
+<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about ReactJS, Express, MongoDB, C++<br>📫 How to reach me parthadhikari@gmail.com<br>⚡ Fun fact I took Physical Education instead of CS in my 12th class for optional and ended here, LOL!<br>
 
 
 ## 🌐 Socials:
