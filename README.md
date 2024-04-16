@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Parth Adhikari</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Software Engineer</h3>
 <br>
 🚀 Currently working at ToolJet as a Software Engineer Intern.
 <br>
